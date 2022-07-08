@@ -26,3 +26,7 @@ finally
     Console.WriteLine("THANK YOU FOR ATTEMPTING !");
 }
 
+for (int i = 0; i <= 1000000; i++)
+{
+    Console.WriteLine(i);
+}
